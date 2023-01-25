@@ -1,4 +1,4 @@
-### Olá, me chamo Mateus Lima 🐴
+### Olá, me chamo Mateus Lima 🏇
 
 [![rocketseat](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-lima-0b3b82236/)
 
